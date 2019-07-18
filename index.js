@@ -4,7 +4,7 @@ var dodger = document.getElementById('dodger')
 
 function addListen(){
   document.addEventListener('keydown', function(e) {
-    console.log(e.which)
+    console.log(e.which);
   })
 }  
 
