@@ -13,6 +13,6 @@ function moveDodgerLeft() {
 
 $(document).ready(function(){
 
-  addListen();
+
 
 });
