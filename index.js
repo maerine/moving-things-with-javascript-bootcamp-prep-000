@@ -10,6 +10,6 @@ function addListen(){
 
 $(document).ready(function(){
 
-
+  addListen();
 
 });
