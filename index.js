@@ -28,6 +28,6 @@ $(document).ready(function(){
     } else if (e.which === 39) {
       moveDodgerRight();
     }
-})
+  })
 
 });
